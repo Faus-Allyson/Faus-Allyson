@@ -2,8 +2,8 @@
 
 🎓 Formado em **Tecnologia em Desenvolvimento de Sistemas** pelo SENAI Joinville Sul  
 🔭 Em busca da minha primeira oportunidade como **Desenvolvedor**  
-💻 Apaixonado por tecnologia e por criar soluções que impactam positivamente as pessoas  
-🧠 Sempre em busca de aprendizado contínuo e inovação através da tecnologia
+💻 Entusiasta em criar soluções que impactam positivamente  
+🧠 Sempre em busca de aprendizado contínuo
 
 ---
 
